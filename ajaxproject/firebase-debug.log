@@ -12,3 +12,17 @@
 [info] Public Directory: ./
 [info] 
 [info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Elizabeth\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Sat Feb 11 2017 14:58:42 GMT-0800 (Hora estándar del Pacífico)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Elizabeth\Documents\GitHub\hackspace\ajaxproject
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000

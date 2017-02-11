@@ -7,7 +7,7 @@ var config = {
   firebase.initializeApp(config);
 
 $(document).ready(function(){
-$(document).on('keypress',function(e){
+$('#tags').on('keypress',function(e){
 	console.log(e.which+"-"+e.key);
 });
   });
@@ -18,7 +18,7 @@ function getAutoCompleteElements(substring){
 function loadForm(data){
 	console.log(data);
 }
-$(document).ready(functioni(){
+$(document).ready(function(){
 	$('#tags').on('keyup',function(e){
 		if(e.which==13){
 			loadForm($(this).val());
@@ -46,4 +46,32 @@ function getAutoCompleteElements(substring){
 		}
 		loadAutoComplete(names);
 	})
+}
+
+function loadAutoComplete(data){
+	$("#tags").autocomplete(
+	{
+		source : data,
+	});
+}
+
+function setDataIntoHTML(data){
+	console.log(data);
+}
+
+function loadForm(data){
+	firebase.database().ref('usuario/'+data).on('value',function(snapshot){
+		var data=snapshot.val();
+		setDataIntoHTML(data);
+	});
+}
+
+funtion setDataIntoHTML(data){
+	$("#email").val(data.email);
+	$("#last").val(data.apellido);
+	$("#dni").val(data.dni);
+	$("#age").val(data.edad);
+	$("#name").val(data.nombre);
+	$("#sex").val(data.sexo);
+	$("#telephone").val(data.telefono);
 }
