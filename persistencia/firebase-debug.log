@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node /usr/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     linux
+[debug] Node Version: v0.12.14
+[debug] Time:         Mon Jun 06 2016 22:21:46 GMT-0500 (PET)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/carlos/Downloads/tarea1(1)/persistencia_hackspace
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Elizabeth\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Sun Feb 12 2017 08:44:51 GMT-0800 (Hora estándar del Pacífico)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Elizabeth\Documents\GitHub\hackspace\persistencia
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000

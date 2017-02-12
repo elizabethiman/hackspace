@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.bottom-line {
+  border-bottom: 2px solid #c3c3c3;
+}
+::-webkit-resizer {
+  display: none;
+}
+body {
+  background-color: #e3e3e3;
+  color: #555;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  padding-top: 40px;
+}
+body * {
+  outline: none !important;
+}
+header h1 {
+  text-transform: uppercase;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 2px solid #c3c3c3;
+  background-color: #f7f7f7;
+  box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.05);
+  color: #555;
+  font-weight: 300;
+  width: 300px;
+  padding: 10px 0px 10px 0px;
+  letter-spacing: 4px;
+}
+section {
+  margin: 0 auto;
+  text-align: center;
+}
+.arrow-up {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: 1px;
+  width: 0;
+  height: 0;
+  margin-top: 10px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #f7f7f7;
+}
+form#worker {
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 2px solid #c3c3c3;
+  width: 300px;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+.form-control {
+  height: auto !important;
+  box-shadow: none;
+  border-radius: 0;
+  background-color: #f7f7f7;
+  outline: none;
+  border: none;
+  box-shadow: none !important;
+}
+textarea#message {
+  min-height: 100px;
+  resize: vertical;
+  overflow: hidden;
+  border-bottom: 0px;
+}
+button#send {
+  text-transform: uppercase;
+  border-bottom: 2px solid #c3c3c3;
+  margin-top: 20px;
+  letter-spacing: 4px;
+}
