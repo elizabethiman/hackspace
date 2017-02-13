@@ -1,0 +1,43 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node /usr/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     linux
+[debug] Node Version: v0.12.14
+[debug] Time:         Tue Jun 07 2016 01:47:49 GMT-0500 (PET)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/carlos/Downloads/tarea1(1)/login_hackspace
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Elizabeth\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Sun Feb 12 2017 11:18:17 GMT-0800 (Hora estándar del Pacífico)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Elizabeth\Documents\GitHub\hackspace\login
+[warn] !  Port 5000 is not available. Trying another port...
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5001
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Elizabeth\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Sun Feb 12 2017 11:19:42 GMT-0800 (Hora estándar del Pacífico)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Elizabeth\Documents\GitHub\hackspace\login
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000

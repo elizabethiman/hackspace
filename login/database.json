@@ -1,0 +1,45 @@
+{
+    "Angel" : {
+        "email" : "stone@meekness.com",
+        "nombre" : "Angel",
+        "apellido" : "Sherise Shortt",
+        "password" : "soporte",
+        "pregunta" : "¿Cual es mi plato favorito?",
+        "respuesta" : "escabeche"
+    },
+  "Carlos" : {
+    "email" : "trinanda_lestyowati@telkomsel.co.id",
+    "nombre" : "Carlos",
+    "apellido" : "Kelly Alexander",
+    "password" : "vanidades",
+        "pregunta" : "¿Como se llama tu amor platonico?",
+        "respuesta" : "shirley"
+  },
+  "Andres" : {
+    "email" : "ca-tech@dps.centrin.net.id",
+    "nombre" : "Andres",
+    "apellido" : "Brendan Ballance",
+    "password" : "programacion",
+        "pregunta" : "¿Cual es mi apodo de universidad?",
+        "respuesta" : "ardilla salvaje"
+  },
+
+  "Camilo" : {
+    "email" : "asst_dos@astonrasuna.com",
+    "nombre" : "Camilo",
+    "apellido" : "Juan Adams",
+    "password" : "123456",
+        "pregunta" : "¿Cual es mi nivel de friendzone?",
+        "respuesta" : "impresionante"
+  },
+
+  "Cesar" : {
+    "email" : "achatv@cbn.net.id",
+    "nombre" : "Cesar",
+    "apellido" : "Nicole Lee",
+    "password" : "password",
+        "pregunta" : "¿Primer lenguaje de programacion en aprender?",
+        "respuesta" : "pascal"
+
+  }
+}
